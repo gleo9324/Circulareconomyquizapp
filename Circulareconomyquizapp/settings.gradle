@@ -1,0 +1,2 @@
+rootProject.name = "Circular economy quiz app"
+include ':app'

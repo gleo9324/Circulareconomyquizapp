@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Circular economy quiz app</string>
+    <string name="quiz_title">Are you a circularity geek?</string>
+    <string name="q_one">1. Which one is a 100 % recyclable material?</string>
+    <string name="q_one_one">Plastic</string>
+    <string name="q_one_two">Paper</string>
+    <string name="q_one_three">Aluminium</string>
+    <string name="q_one_four">Glass</string>
+    <string name="q_two">2. Which herbs can you grow in water all year? Check more than one answer</string>
+    <string name="q_two_one">Mint</string>
+    <string name="q_two_two">Laurel</string>
+    <string name="q_two_three">Rosemary</string>
+    <string name="q_two_four">Basil</string>
+    <string name="q_two_five">Chives</string>
+    <string name="q_three">	3. Which are the most sustainable solutions? Check more than one answer
+</string>
+    <string name="q_three_one">Only eating vegan</string>
+    <string name="q_three_two">Only eating local and seasonal products</string>
+    <string name="q_three_three">Using not-polluting cleaning products in plastic</string>
+    <string name="q_three_four">Using solid not-polluting cleaning products</string>
+    <string name="q_three_five">Filtering tap water</string>
+    <string name="q_three_six">Buying water in glass bottles</string>
+    <string name="q_four">4. In which fraction you differentiate polystyrene?</string>
+    <string name="q_four_one">Fraction name</string>
+    <string name="q_five">5. How many trees you save by recycling a ton of paper?</string>
+    <string name="q_five_one">242</string>
+    <string name="q_five_two">17</string>
+    <string name="q_five_three">185</string>
+    <string name="q_five_four">83</string>
+    <string name="button">Done!</string>
+    <string name="score">Score: </string>
+    <string name="best_score">\nGreat! You\'re already a circularity geek!</string>
+    <string name="medium_score">\nYou\'re on the right path to circularity greatness!</string>
+    <string name="low_score">\nOuch! Try again and improve your circularity skills!</string>
+
+</resources>
